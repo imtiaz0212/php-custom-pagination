@@ -1,1 +1,1 @@
-# php-custom-pagination
+# PHP Custom Pagination
