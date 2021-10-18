@@ -68,7 +68,7 @@
     <?php } ?>
 
     <hr class="my-4">
-    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+    <a class="btn btn-primary btn-lg" href="https://github.com/imtiaz0212/php-custom-pagination" role="button">Learn more</a>
 </div>
 
 
